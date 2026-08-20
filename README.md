@@ -14,4 +14,5 @@ The core NWC protocol is tracked in NIP-47 for now. This repository reserves `01
 | [05](05.md) | Transaction History | Defines the `list_transactions` method for optional transaction history listing. |
 | [06](06.md) | Metadata Conventions | Defines common metadata keys and limits used by optional NWC features. |
 | [07](07.md) | Deep Links | Defines optional mobile deep-link conventions for NWC pairing flows. |
+| [09](09.md) | BOLT12 Offers | Defines the `make_offer` method for creating a BOLT12 offer. |
 | [321](321.md) | BIP-321 Lightning Payments | Defines the `pay` and `receive` methods for BIP-321 Lightning payment instructions. |
